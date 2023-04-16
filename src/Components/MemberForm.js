@@ -212,8 +212,8 @@ const MemberForm = ({ name, profit, incomeTaxPayable, disabled }) => {
         )}
       />
       <div className="generate-info">
-        <p>Total Proportion: {totalProportion}</p>
-        <p>Total Taxable Proportion: {totalTaxableProportion}</p>
+        <p>Total Proportion: {totalProportion}%</p>
+        <p>Total Taxable Proportion: {totalTaxableProportion}%</p>
         <button
           type="button"
           disabled={!(totalProportion === 100)}
