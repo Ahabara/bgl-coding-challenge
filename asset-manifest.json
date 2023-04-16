@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bgl-coding-challenge/static/css/main.fef0b66b.css",
+    "main.js": "/bgl-coding-challenge/static/js/main.1e8c07cc.js",
+    "index.html": "/bgl-coding-challenge/index.html",
+    "main.fef0b66b.css.map": "/bgl-coding-challenge/static/css/main.fef0b66b.css.map",
+    "main.1e8c07cc.js.map": "/bgl-coding-challenge/static/js/main.1e8c07cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef0b66b.css",
+    "static/js/main.1e8c07cc.js"
+  ]
+}
