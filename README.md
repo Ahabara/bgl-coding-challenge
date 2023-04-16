@@ -1,8 +1,7 @@
-# Getting Started with Create React App
+# BGL Coding Exercise
+### To run the website, visit [this link](https://Ahabara.github.io/bgl-coding-challenge)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-To run the website, visit [this link]()
 
 To run the app locally, run `npm start` in the project directory.
 
