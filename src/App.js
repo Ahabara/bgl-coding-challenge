@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Title />
       <FundForm />
+      <footer className="footer"></footer>
     </div>
   );
 }
