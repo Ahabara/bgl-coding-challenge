@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bgl-coding-challenge/static/css/main.53f07add.css",
+    "main.css": "/bgl-coding-challenge/static/css/main.1e9a7fb3.css",
     "main.js": "/bgl-coding-challenge/static/js/main.adf177b5.js",
     "index.html": "/bgl-coding-challenge/index.html",
-    "main.53f07add.css.map": "/bgl-coding-challenge/static/css/main.53f07add.css.map",
+    "main.1e9a7fb3.css.map": "/bgl-coding-challenge/static/css/main.1e9a7fb3.css.map",
     "main.adf177b5.js.map": "/bgl-coding-challenge/static/js/main.adf177b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.53f07add.css",
+    "static/css/main.1e9a7fb3.css",
     "static/js/main.adf177b5.js"
   ]
 }
