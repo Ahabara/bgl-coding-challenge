@@ -103,6 +103,15 @@ button:hover{
     transition: 0.7s;
 }
 
+button:disabled{
+    background-color: #a9a6a6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
 .generate-info{
     display: flex;
     flex-direction: column;
