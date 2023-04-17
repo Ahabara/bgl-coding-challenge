@@ -57,7 +57,7 @@ const FundForm = () => {
           disabled={disabled}
         />
 
-        <label htmlFor="income-input">Profit:</label>
+        <label htmlFor="income-input">Income: ($)</label>
         <input
           type="number"
           id="income-input"
@@ -67,7 +67,7 @@ const FundForm = () => {
           disabled={disabled}
         />
 
-        <label htmlFor="expense-input">Expense:</label>
+        <label htmlFor="expense-input">Expense: ($)</label>
         <input
           type="number"
           id="expense-input"
